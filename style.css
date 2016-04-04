@@ -1,0 +1,22 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+img {
+	width: 200px;
+	margin-bottom: 20px;
+}
+
+.books {
+	font-size: 20px;
+	padding: 5px;
+	border: 1px solid #eee;
+	border-radius: 6px;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.books:hover {
+	background: #eee;
+	cursor: pointer;
+};
