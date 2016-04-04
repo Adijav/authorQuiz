@@ -19,4 +19,20 @@ img {
 .books:hover {
 	background: #eee;
 	cursor: pointer;
-};
+}
+
+.green {
+	background:green;
+}
+
+.red {
+	background: red;
+}
+
+.resultBox {
+	height: 218px;
+}
+
+.continueButton {
+	margin-top: 8%;
+}
